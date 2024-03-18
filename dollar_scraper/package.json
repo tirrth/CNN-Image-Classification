@@ -1,0 +1,13 @@
+{
+  "name": "dollar_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "execute": "node download_dollar_bills"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^22.5.0"
+  }
+}
